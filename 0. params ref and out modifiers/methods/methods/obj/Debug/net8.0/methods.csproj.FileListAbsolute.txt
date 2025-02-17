@@ -1,0 +1,14 @@
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.AssemblyInfoInputs.cache
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.AssemblyInfo.cs
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\bin\Debug\net8.0\methods.exe
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\bin\Debug\net8.0\methods.deps.json
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\bin\Debug\net8.0\methods.runtimeconfig.json
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\bin\Debug\net8.0\methods.dll
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\bin\Debug\net8.0\methods.pdb
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.dll
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\refint\methods.dll
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.pdb
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\methods.genruntimeconfig.cache
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\allCSharpPractice\0. params ref and out modifiers\methods\methods\obj\Debug\net8.0\ref\methods.dll
